@@ -1,0 +1,2270 @@
+{
+    "usa_gdp": [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "19390604000000",
+            "decimal": "0",
+            "date": "2017"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "18624475000000",
+            "decimal": "0",
+            "date": "2016"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "18120714000000",
+            "decimal": "0",
+            "date": "2015"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "17427609000000",
+            "decimal": "0",
+            "date": "2014"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "16691517000000",
+            "decimal": "0",
+            "date": "2013"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "16155255000000",
+            "decimal": "0",
+            "date": "2012"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "15517926000000",
+            "decimal": "0",
+            "date": "2011"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "14964372000000",
+            "decimal": "0",
+            "date": "2010"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "14418739000000",
+            "decimal": "0",
+            "date": "2009"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "14718582000000",
+            "decimal": "0",
+            "date": "2008"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "14477635000000",
+            "decimal": "0",
+            "date": "2007"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "13855888000000",
+            "decimal": "0",
+            "date": "2006"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "13093726000000",
+            "decimal": "0",
+            "date": "2005"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "12274928000000",
+            "decimal": "0",
+            "date": "2004"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "11510670000000",
+            "decimal": "0",
+            "date": "2003"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "10977514000000",
+            "decimal": "0",
+            "date": "2002"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "10621824000000",
+            "decimal": "0",
+            "date": "2001"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "10284779000000",
+            "decimal": "0",
+            "date": "2000"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "9660624000000",
+            "decimal": "0",
+            "date": "1999"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "9089168000000",
+            "decimal": "0",
+            "date": "1998"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "8608515000000",
+            "decimal": "0",
+            "date": "1997"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "8100201000000",
+            "decimal": "0",
+            "date": "1996"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "7664060000000",
+            "decimal": "0",
+            "date": "1995"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "7308755000000",
+            "decimal": "0",
+            "date": "1994"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "6878718000000",
+            "decimal": "0",
+            "date": "1993"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "6539299000000",
+            "decimal": "0",
+            "date": "1992"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "6174043000000",
+            "decimal": "0",
+            "date": "1991"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "5979589000000",
+            "decimal": "0",
+            "date": "1990"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "5657693000000",
+            "decimal": "0",
+            "date": "1989"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "5252629000000",
+            "decimal": "0",
+            "date": "1988"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "4870217000000",
+            "decimal": "0",
+            "date": "1987"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "4590155000000",
+            "decimal": "0",
+            "date": "1986"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "4346734000000",
+            "decimal": "0",
+            "date": "1985"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "4040693000000",
+            "decimal": "0",
+            "date": "1984"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "3638137000000",
+            "decimal": "0",
+            "date": "1983"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "3344991000000",
+            "decimal": "0",
+            "date": "1982"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "3210956000000",
+            "decimal": "0",
+            "date": "1981"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "2862505000000",
+            "decimal": "0",
+            "date": "1980"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "2632143000000",
+            "decimal": "0",
+            "date": "1979"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "2356571000000",
+            "decimal": "0",
+            "date": "1978"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "2085951000000",
+            "decimal": "0",
+            "date": "1977"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1877587000000",
+            "decimal": "0",
+            "date": "1976"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1688923000000",
+            "decimal": "0",
+            "date": "1975"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1548825000000",
+            "decimal": "0",
+            "date": "1974"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1428549000000",
+            "decimal": "0",
+            "date": "1973"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1282449000000",
+            "decimal": "0",
+            "date": "1972"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1167770000000",
+            "decimal": "0",
+            "date": "1971"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1075884000000",
+            "decimal": "0",
+            "date": "1970"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "1019900000000",
+            "decimal": "0",
+            "date": "1969"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "942500000000",
+            "decimal": "0",
+            "date": "1968"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "861700000000",
+            "decimal": "0",
+            "date": "1967"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "815000000000",
+            "decimal": "0",
+            "date": "1966"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "743700000000",
+            "decimal": "0",
+            "date": "1965"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "685800000000",
+            "decimal": "0",
+            "date": "1964"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "638600000000",
+            "decimal": "0",
+            "date": "1963"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "605100000000",
+            "decimal": "0",
+            "date": "1962"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "563300000000",
+            "decimal": "0",
+            "date": "1961"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "value": "543300000000",
+            "decimal": "0",
+            "date": "1960"
+        }
+    ],
+    "china_gdp": [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "12237700479375",
+            "decimal": "0",
+            "date": "2017"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "11190992550229.5",
+            "decimal": "0",
+            "date": "2016"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "11064666282625.5",
+            "decimal": "0",
+            "date": "2015"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "10482372109961.9",
+            "decimal": "0",
+            "date": "2014"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "9607224481532.65",
+            "decimal": "0",
+            "date": "2013"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "8560547314679.28",
+            "decimal": "0",
+            "date": "2012"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "7572553836875.34",
+            "decimal": "0",
+            "date": "2011"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "6100620488867.55",
+            "decimal": "0",
+            "date": "2010"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "5109953609257.25",
+            "decimal": "0",
+            "date": "2009"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "4598206091384",
+            "decimal": "0",
+            "date": "2008"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "3552182311652.97",
+            "decimal": "0",
+            "date": "2007"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "2752131773355.16",
+            "decimal": "0",
+            "date": "2006"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "2285965892360.54",
+            "decimal": "0",
+            "date": "2005"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "1955347004963.27",
+            "decimal": "0",
+            "date": "2004"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "1660287965662.68",
+            "decimal": "0",
+            "date": "2003"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "1470550015081.55",
+            "decimal": "0",
+            "date": "2002"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "1339395718865.3",
+            "decimal": "0",
+            "date": "2001"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "1211346869605.24",
+            "decimal": "0",
+            "date": "2000"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "1093997267271.06",
+            "decimal": "0",
+            "date": "1999"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "1029043097554.08",
+            "decimal": "0",
+            "date": "1998"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "961603952951.82",
+            "decimal": "0",
+            "date": "1997"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "863746717503.789",
+            "decimal": "0",
+            "date": "1996"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "734547898220.508",
+            "decimal": "0",
+            "date": "1995"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "564324670005.917",
+            "decimal": "0",
+            "date": "1994"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "444731282436.762",
+            "decimal": "0",
+            "date": "1993"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "426915712711.146",
+            "decimal": "0",
+            "date": "1992"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "383373318083.624",
+            "decimal": "0",
+            "date": "1991"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "360857912565.966",
+            "decimal": "0",
+            "date": "1990"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "347768051311.741",
+            "decimal": "0",
+            "date": "1989"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "312353631207.819",
+            "decimal": "0",
+            "date": "1988"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "272972974764.574",
+            "decimal": "0",
+            "date": "1987"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "300758100107.246",
+            "decimal": "0",
+            "date": "1986"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "309488028132.653",
+            "decimal": "0",
+            "date": "1985"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "259946510957.143",
+            "decimal": "0",
+            "date": "1984"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "230686747153.257",
+            "decimal": "0",
+            "date": "1983"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "205089699858.779",
+            "decimal": "0",
+            "date": "1982"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "195866382432.54",
+            "decimal": "0",
+            "date": "1981"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "191149211575",
+            "decimal": "0",
+            "date": "1980"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "178280594413.043",
+            "decimal": "0",
+            "date": "1979"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "149540752829.268",
+            "decimal": "0",
+            "date": "1978"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "174938098826.569",
+            "decimal": "0",
+            "date": "1977"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "153940455341.506",
+            "decimal": "0",
+            "date": "1976"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "163431551779.761",
+            "decimal": "0",
+            "date": "1975"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "144182133387.722",
+            "decimal": "0",
+            "date": "1974"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "138544284708.957",
+            "decimal": "0",
+            "date": "1973"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "113687586299.051",
+            "decimal": "0",
+            "date": "1972"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "99800958648.1436",
+            "decimal": "0",
+            "date": "1971"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "92602973434.0726",
+            "decimal": "0",
+            "date": "1970"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "79705906247.4612",
+            "decimal": "0",
+            "date": "1969"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "70846535055.6503",
+            "decimal": "0",
+            "date": "1968"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "72881631326.6715",
+            "decimal": "0",
+            "date": "1967"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "76720285969.6157",
+            "decimal": "0",
+            "date": "1966"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "70436266146.7219",
+            "decimal": "0",
+            "date": "1965"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "59708343488.5043",
+            "decimal": "0",
+            "date": "1964"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "50706799902.5103",
+            "decimal": "0",
+            "date": "1963"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "47209359005.6056",
+            "decimal": "0",
+            "date": "1962"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "50056868957.6732",
+            "decimal": "0",
+            "date": "1961"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "value": "59716467625.3148",
+            "decimal": "0",
+            "date": "1960"
+        }
+    ],
+    "india_gdp": [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "2597491162897.67",
+            "decimal": "0",
+            "date": "2017"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "2274229710530.03",
+            "decimal": "0",
+            "date": "2016"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "2102390808997.09",
+            "decimal": "0",
+            "date": "2015"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "2039127446299.3",
+            "decimal": "0",
+            "date": "2014"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "1856722121394.42",
+            "decimal": "0",
+            "date": "2013"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "1827637859136.23",
+            "decimal": "0",
+            "date": "2012"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "1823049927772.05",
+            "decimal": "0",
+            "date": "2011"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "1656617073124.71",
+            "decimal": "0",
+            "date": "2010"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "1323940295874.06",
+            "decimal": "0",
+            "date": "2009"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "1186952757636.11",
+            "decimal": "0",
+            "date": "2008"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "1201111768410.27",
+            "decimal": "0",
+            "date": "2007"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "920316529729.747",
+            "decimal": "0",
+            "date": "2006"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "808901077222.839",
+            "decimal": "0",
+            "date": "2005"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "699688852930.276",
+            "decimal": "0",
+            "date": "2004"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "599592902016.345",
+            "decimal": "0",
+            "date": "2003"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "508068952065.901",
+            "decimal": "0",
+            "date": "2002"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "478965491060.771",
+            "decimal": "0",
+            "date": "2001"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "462146799337.698",
+            "decimal": "0",
+            "date": "2000"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "452699998386.914",
+            "decimal": "0",
+            "date": "1999"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "415730874171.13",
+            "decimal": "0",
+            "date": "1998"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "410320300470.283",
+            "decimal": "0",
+            "date": "1997"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "387656017798.596",
+            "decimal": "0",
+            "date": "1996"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "355475984177.451",
+            "decimal": "0",
+            "date": "1995"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "322909902308.892",
+            "decimal": "0",
+            "date": "1994"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "275570363431.902",
+            "decimal": "0",
+            "date": "1993"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "284363884080.101",
+            "decimal": "0",
+            "date": "1992"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "266502281094.117",
+            "decimal": "0",
+            "date": "1991"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "316697337894.513",
+            "decimal": "0",
+            "date": "1990"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "292093308319.642",
+            "decimal": "0",
+            "date": "1989"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "292632656262.687",
+            "decimal": "0",
+            "date": "1988"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "275311425331.64",
+            "decimal": "0",
+            "date": "1987"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "245664654062.873",
+            "decimal": "0",
+            "date": "1986"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "229410293759.071",
+            "decimal": "0",
+            "date": "1985"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "209328156800.867",
+            "decimal": "0",
+            "date": "1984"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "215350771428.331",
+            "decimal": "0",
+            "date": "1983"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "198037712681.605",
+            "decimal": "0",
+            "date": "1982"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "190909548789.769",
+            "decimal": "0",
+            "date": "1981"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "183839864649.15",
+            "decimal": "0",
+            "date": "1980"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "150950826964.424",
+            "decimal": "0",
+            "date": "1979"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "135468782808.69",
+            "decimal": "0",
+            "date": "1978"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "119866746574.408",
+            "decimal": "0",
+            "date": "1977"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "101346972433.934",
+            "decimal": "0",
+            "date": "1976"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "97159222024.1364",
+            "decimal": "0",
+            "date": "1975"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "98198276856.6209",
+            "decimal": "0",
+            "date": "1974"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "84374541630.2062",
+            "decimal": "0",
+            "date": "1973"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "70509913049.4003",
+            "decimal": "0",
+            "date": "1972"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "66452561865.8332",
+            "decimal": "0",
+            "date": "1971"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "61589800519.5084",
+            "decimal": "0",
+            "date": "1970"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "57668330026.3629",
+            "decimal": "0",
+            "date": "1969"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "52377324284.1951",
+            "decimal": "0",
+            "date": "1968"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "49466168890.9507",
+            "decimal": "0",
+            "date": "1967"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "45253641303.1897",
+            "decimal": "0",
+            "date": "1966"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "58760424669.8482",
+            "decimal": "0",
+            "date": "1965"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "55726873083.5543",
+            "decimal": "0",
+            "date": "1964"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "47776000900.0302",
+            "decimal": "0",
+            "date": "1963"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "41599070242.3094",
+            "decimal": "0",
+            "date": "1962"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "38709096075.6305",
+            "decimal": "0",
+            "date": "1961"
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "value": "36535925031.34",
+            "decimal": "0",
+            "date": "1960"
+        }
+    ]
+}
